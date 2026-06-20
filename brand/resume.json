@@ -1,0 +1,109 @@
+{
+  "_attested": "2026-06-20",
+  "_attestation_note": "Three import errors caught and fixed: (1) Co-op end date was set to Jan 2026 — corrected to Dec 2025. (2) GPA for BMS Institute was imported as 8.3 — corrected to 8.35. (3) Power Automate was listed under Security Tools — moved to Automation & Scripting where it belongs.",
+
+  "personal": {
+    "name": "Satwika Maddukuri",
+    "location": "Boston, MA",
+    "email": "Satwikam2129@gmail.com",
+    "phone": "+1 857 544 8910",
+    "linkedin": "https://www.linkedin.com/in/satwikamaddukuri"
+  },
+
+  "education": [
+    {
+      "institution": "Northeastern University",
+      "location": "Boston, MA",
+      "degree": "Master of Science",
+      "field": "Information Systems",
+      "gpa": "3.63/4.0",
+      "start": "2024-01",
+      "end": "2026-12",
+      "status": "In progress"
+    },
+    {
+      "institution": "BMS Institute of Technology and Management",
+      "location": "Bangalore, India",
+      "degree": "Bachelor of Engineering",
+      "field": "Information Science",
+      "gpa": "8.35/10",
+      "start": "2019-08",
+      "end": "2023-06",
+      "status": "Completed"
+    }
+  ],
+
+  "experience": [
+    {
+      "company": "Massachusetts State Lottery Commission",
+      "location": "Braintree, MA",
+      "title": "Cybersecurity Analyst Co-op",
+      "start": "2025-07",
+      "end": "2025-12",
+      "type": "Co-op",
+      "responsibilities": [
+        "Conducted vulnerability management using Tenable — scanning, prioritizing, and creating ServiceNow tickets for remediation",
+        "Authored patch memos and collaborated with IT staff via Microsoft Teams to clarify mitigation steps",
+        "Implemented a Jira-Tenable exception tracking workflow to improve visibility for extended remediation vulnerabilities",
+        "Investigated alerts using Recorded Future, Splunk, and Microsoft Defender — documented findings with analyst notes",
+        "Designed and maintained SharePoint documentation repositories including guides, standards, and Power Automate approval workflows",
+        "Authored playbooks and remediation reports to standardize alert response and operational workflows"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Human Risk Report Generator",
+      "context": "Northeastern University — INFO 7375 Branding & AI",
+      "year": "2026",
+      "description": "AI-powered pipeline built on Madison Framework SyntheticPersonas component. Analyzes 270 real cybersecurity records to generate tailored Human Risk Reports for any organization type. Deployed on Streamlit with Gemini 2.5 Flash.",
+      "technologies": ["n8n", "Gemini 2.5 Flash", "Streamlit", "Python", "Kaggle datasets", "CISA RSS feed"],
+      "url": "https://human-risk-app-men3wbjhbbvjjxefedznuj.streamlit.app"
+    },
+    {
+      "name": "Smart Hydroponic Farm Management System",
+      "context": "Academic project",
+      "year": "2022",
+      "description": "SQL-based database for automated crop, harvest, order, and facility management with IoT sensor integration for environmental monitoring and anomaly detection.",
+      "technologies": ["SQL", "IoT sensors", "Database design"]
+    },
+    {
+      "name": "Hungry Bounce — Cloud Kitchen Ordering Website",
+      "context": "Academic project",
+      "year": "2022",
+      "description": "Fully functional web application for online food ordering with user authentication, order tracking, and secure database integration.",
+      "technologies": ["HTML", "CSS", "JavaScript", "PHP", "Git", "MySQL"]
+    },
+    {
+      "name": "Cloud Security Implementation",
+      "context": "Academic project",
+      "year": "2023",
+      "description": "IAM configurations, MFA, and encryption protocols for secure cloud environments. Vulnerability identification and mitigation across cloud infrastructure.",
+      "technologies": ["AWS", "IAM", "MFA", "Cloud security"]
+    }
+  ],
+
+  "skills": {
+    "security_tools": ["Tenable", "Splunk", "Recorded Future", "Zscaler", "Microsoft Defender"],
+    "security_domains": ["Vulnerability Management", "Threat Intelligence", "Incident Support", "Risk Assessment", "Third Party Risk"],
+    "automation": ["Power Automate", "Python (basic)", "n8n workflow automation"],
+    "cloud_networking": ["AWS fundamentals", "Network security concepts", "IAM"],
+    "platforms": ["Microsoft Office Suite", "SharePoint", "Jira", "ServiceNow"],
+    "ai_tools": ["Gemini API", "Streamlit", "Kaggle", "Madison Framework"],
+    "soft_skills": ["Documentation", "Organization", "Time Management", "Adaptability", "Leadership"]
+  },
+
+  "certifications": [
+    {
+      "name": "Certified in Cybersecurity (CC)",
+      "issuer": "International Information System Security Certification Consortium (ISC2)",
+      "year": "2024"
+    },
+    {
+      "name": "Graduate Institute of Leadership",
+      "issuer": "Northeastern University",
+      "year": "2024-03"
+    }
+  ]
+}

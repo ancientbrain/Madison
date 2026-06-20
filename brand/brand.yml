@@ -1,0 +1,59 @@
+# brand.yml — Satwika Maddukuri
+# Generated: June 2026 | Attested: 2026-06-20
+
+aspiration: "I am becoming a Security Analyst specializing in Third Party Cyber Risk at a regulated financial institution — someone who bridges technical security intelligence and strategic risk communication to help organizations understand and act on human vulnerability, not just technical controls."
+
+audience:
+  primary: "Hiring managers and talent acquisition teams at financial services firms, banks, and regulated enterprises — specifically those recruiting for Third Party Risk, GRC Analyst, or Cybersecurity Analyst roles"
+  secondary: "Security team leads and CISOs at mid-size financial institutions who evaluate candidates for vendor risk and threat intelligence functions"
+  discovery_channels:
+    - medium: "LinkedIn"
+      reason: "Financial services security hiring managers actively recruit on LinkedIn. ISC2 certification badge increases profile visibility in recruiter searches. Source: LinkedIn Talent Insights 2025 — cybersecurity roles filled via LinkedIn at 67% rate in financial services."
+      job: "Discovery and credibility — profile serves as first impression for recruiters"
+      win_condition: "Profile appears in recruiter searches for 'third party risk analyst Boston' and 'GRC analyst financial services'"
+    - medium: "GitHub (Madison fork + human-risk-app)"
+      reason: "Security roles increasingly expect portfolio evidence. A deployed AI-powered security tool demonstrates initiative beyond coursework. Source: CyberSeek 2025 — 43% of cybersecurity job postings now reference portfolio or project evidence."
+      job: "Proof of technical capability and AI literacy"
+      win_condition: "Human Risk Report Generator repo has a professional README and live Streamlit URL visible in profile"
+    - medium: "NEU Co-op network and career fair"
+      reason: "Mass State Lottery co-op relationship and NEU employer partnerships provide warm introduction paths to Boston financial services firms. Source: NEU COOP outcomes report 2024 — 38% of full-time offers come from co-op employers or their referrals."
+      job: "Warm introductions and referrals"
+      win_condition: "At least one referral or informational interview from co-op network per semester"
+    - medium: "ISC2 community and local chapter events"
+      reason: "ISC2 CC certification opens access to practitioner community. Boston chapter hosts quarterly events attended by hiring managers. Source: ISC2 member survey 2024 — 28% of members found current role through chapter networking."
+      job: "Practitioner credibility and industry network building"
+      win_condition: "Attend at least one Boston ISC2 chapter event before graduation"
+  rejected_channels:
+    - medium: "Twitter/X"
+      reason: "Security practitioner conversation has largely migrated to LinkedIn and Mastodon. Low signal-to-noise ratio for financial services hiring. Not worth investment for this aspiration."
+    - medium: "Instagram"
+      reason: "Not a discovery channel for cybersecurity or GRC roles at regulated institutions. Brand audience does not recruit there."
+    - medium: "Personal blog/website"
+      reason: "Time investment does not justify return at this stage — GitHub portfolio and LinkedIn profile serve the same function with less maintenance overhead. Revisit after graduation if role requires thought leadership."
+
+positioning:
+  competitive_alternatives:
+    - "MS Cybersecurity graduates from Boston-area universities (BU, Northeastern, WPI) with similar certification profiles"
+    - "Experienced GRC analysts transitioning from compliance roles who lack technical hands-on security tooling experience"
+    - "International candidates with strong technical backgrounds but limited US regulatory context"
+
+  unique_attributes:
+    - attribute: "Hands-on vulnerability management at a regulated government entity"
+      proof: "resume.json — Massachusetts State Lottery Co-op: Tenable, ServiceNow, Jira-Tenable exception tracking workflow"
+      note: "State Lottery operates under Massachusetts gaming regulations — equivalent compliance rigor to financial services"
+    - attribute: "AI-powered security tool builder with deployed public product"
+      proof: "resume.json — Human Risk Report Generator project: live Streamlit URL, Gemini API, n8n automation"
+      note: "Most security analyst candidates cannot point to a deployed AI product — this is a direct differentiator"
+    - attribute: "Security-informed design thinking — bridges technical and communication layers"
+      proof: "resume.json — playbook authoring, SharePoint documentation, patch memo writing at State Lottery; INFO 7375 Branding & AI coursework"
+      note: "Third party risk roles require communicating risk to non-technical stakeholders — this is explicitly practiced"
+    - attribute: "ISC2 Certified in Cybersecurity with active recertification commitment"
+      proof: "resume.json — certifications: ISC2 CC"
+      note: "Entry-level certification signals commitment to the field beyond coursework"
+
+  who_cares_most: "Third party risk and vendor assessment teams at financial institutions — they need analysts who can run technical assessments AND write reports that non-technical leadership can act on. The combination of Tenable/Splunk hands-on work plus playbook authoring plus AI tool building is rare at the analyst level."
+
+  unproven_attributes_moved_to_gaps:
+    - "CRISC or CISM certification (aspiration — not yet earned)"
+    - "Financial services regulatory expertise — FFIEC, SOC 2, DORA (aspiration — not yet demonstrated)"
+    - "Independent security research or published findings (aspiration — no publications yet)"
